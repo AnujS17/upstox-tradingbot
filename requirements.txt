@@ -1,0 +1,10 @@
+pandas
+numpy
+ta-lib
+yfinance
+upstox-client
+concurrent.futures
+requests
+datetime
+matplotlib.pyplot
+time
