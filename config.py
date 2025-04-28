@@ -40,3 +40,6 @@ SYMBOL_TO_ISIN = {
         "VODAFONE IDEA": "INE669E01016",
         "ICICIBANK": "INE090A01021"
     }
+
+account_sid = ""
+auth_token = ""
