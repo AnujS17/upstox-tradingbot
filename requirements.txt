@@ -8,3 +8,6 @@ requests
 datetime
 matplotlib.pyplot
 time
+fastapi
+uvicorn
+upstox-api
