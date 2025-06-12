@@ -1,7 +1,7 @@
 
 base_url = "https://api.upstox.com/v2"
-access_token = ""
-client_id = ""
+access_token = "eyJ0eXAiOiJKV1QiLCJrZXlfaWQiOiJza192MS4wIiwiYWxnIjoiSFMyNTYifQ.eyJzdWIiOiI3NEFMNVoiLCJqdGkiOiI2ODBmMGQxZWNmN2ZiOTU0NDEyM2EzOWYiLCJpc011bHRpQ2xpZW50IjpmYWxzZSwiaWF0IjoxNzQ1ODE2ODYyLCJpc3MiOiJ1ZGFwaS1nYXRld2F5LXNlcnZpY2UiLCJleHAiOjE3NDU4Nzc2MDB9.kJtFb0MjiMKIW6DP1vCF1-BCYqVxY93c-T2i2HBwI_w"
+client_id = "5b0b5830-a3ed-4083-a6e3-c356b3d1e34e"
 sector_params = {
             # Technology
                     
