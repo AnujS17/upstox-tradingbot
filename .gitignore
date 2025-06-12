@@ -4,7 +4,7 @@ ENV/
 env/
 .venv/
 algotrade/
-credentials/
+credentials.py/
 
 # Bytecode files
 __pycache__/
